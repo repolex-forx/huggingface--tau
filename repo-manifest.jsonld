@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/huggingface/tau/commit/47610d3ed71deb70b07443a8641588ffc9c8ffc6",
       "git:hexsha": "47610d3ed71deb70b07443a8641588ffc9c8ffc6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.4.9"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.9",
+      "repolex:parsedAt": "2026-11-07T22:30:02.273427+00:00"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/tau/commit/6212bef6f8ea96f33776d5e8dbbea349473c822b",
