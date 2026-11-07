@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "tau",
+  "versions": [
+    {
+      "commit": "47610d3ed71deb70b07443a8641588ffc9c8ffc6",
+      "tag": "v0.4.9",
+      "parsed_at": "2026-11-07T22:30:02.273997+00:00"
+    }
+  ]
+}
